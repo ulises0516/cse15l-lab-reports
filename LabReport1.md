@@ -1,6 +1,7 @@
 # Lab Report 1
 Welcome future **CSE 15L** students or future self in this guide I will guide you in  
 logging into a course specific account on *iegn16*
+
 ---
 ## VS-CODE Installation  
 ---
