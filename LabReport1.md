@@ -2,8 +2,7 @@
 Welcome future **CSE 15L** students or future self in this guide I will guide you in  
 logging into a course specific account on *iegn16*
 
-## VS-CODE Installation  
----
+## VS-CODE Installation  ---
  1.  [VS-Code download](https://code.visualstudio.com/download) This link will guide in downloading **VS-CODE**
       * all major operation will supported(mac OS and windows(PC's)
       
