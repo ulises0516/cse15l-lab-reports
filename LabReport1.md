@@ -88,7 +88,8 @@ cp /home/linux/ieng6/cs15lsp23/public/hello.txt~/
 ```ruby
 cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 ```
-**Note**- 
+**Note**- mess with the commands attempt to produce errors or different outcomes than group members take note what different outputs  
+ produced between your lab members.
  
       
 
