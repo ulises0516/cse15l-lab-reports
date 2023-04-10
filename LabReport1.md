@@ -19,10 +19,10 @@ Welcome future **CSE 15L** students or future self in this guide I will guide yo
 ## REMOTELY Connecting  
 ---
 For **REFERENCE**  
-```ruby  
+```  
 $ command outputed to remote server 
 ```  
-```emerald
+```ruby
 $ command to own device 
 ```
                     
