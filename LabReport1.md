@@ -22,7 +22,7 @@ For **REFERENCE**
 ```ruby  
 $ command outputed to remote server 
 ```  
-```python
+```emerald
 $ command to own device 
 ```
                     
