@@ -56,10 +56,11 @@ $ ssh cse15lsp23<username>@iegn6.ucsd.edu
 ```
 permission denied
 ``` 
-or
+**OR**
 ```
 connection issues
-``` I recommend alerting your IA or tutor of this problem to be resolved 
+``` 
+ I recommend alerting your IA or tutor of this problem to be resolved 
  
  
       
