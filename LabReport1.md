@@ -53,7 +53,7 @@ Then you should proceed in typing your password
   ## SIDE NOTE
  ---
  
- I enocunter many issues with reseting my course specific account password [RESET CSE 15L PASSWORD](https://sdacs.ucsd.edu/~icc/index.php). After Reseting my password and processing with Remotely connecting I could not login using my password it would the remote sever would output
+ I enocunter many issues with reseting my course specific account password [RESET CSE 15L PASSWORD](https://sdacs.ucsd.edu/~icc/index.php). After Reseting my password and processing with Remotely connecting I could not login using my password the remote sever would output
 ```
 permission denied
 ``` 
@@ -89,7 +89,7 @@ cp /home/linux/ieng6/cs15lsp23/public/hello.txt~/
 ```ruby
 cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 ```
-**Note**- mess with the commands attempt to produce errors or different outcomes than group members take note what different outputs  
+**Note**- Mess with the commands attempt to produce errors or different outcomes than group members take note what different outputs  
  produced between your lab members.
  
       
