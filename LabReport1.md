@@ -60,7 +60,9 @@ permission denied
 ```
 connection issues
 ``` 
- I recommend taking a screen shot of what the terminal outputed. Also discussing with your lab group if they as well encounter this issue. This can occur by putting "cse15<sp>l> instead of "sp" for spring. I inputed "wi" for winter can be inputed a mistake I did and any username misinputs can make this problem occur. I will try my best to guide you but mishaps along the way are inevitable for so many users logging in, issues will happen. So alert an IA or tutor of any issues that arise that you can not resolve. Even to have an IA sit with you along the process is completely fine.
+ 
+I recommend taking a screen shot of what the terminal outputed. Also discussing with your lab group if they as well encounter this issue. This can occur by putting "cse15<sp>l> instead of "sp" for spring. I inputed "wi" for winter can be inputed a mistake I did and any username misinputs can make this problem occur. I will try my best to guide you but mishaps along the way are inevitable for so many users logging in, issues will happen. So alert an IA or tutor of any issues that arise that you can not resolve. Even to have an IA sit with you along the process is completely fine.
+ 
  ---
  
  
