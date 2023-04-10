@@ -18,9 +18,9 @@ Welcome future **CSE 15L** students or future self in this guide I will guide yo
 ---
 ## REMOTELY Connecting  
 ---
-For **REFERENCE**- Higlighed ```ruby
-                             purple 
-                             ``` is a command to own device and non highlighted is to remote server
+For **REFERENCE**- non Higlighed ```ruby
+                                   purple 
+                                 ``` is a command to own device and non highlighted is to remote server
 ```  
 $ command outputed to remote server 
 ```  
