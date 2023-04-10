@@ -18,11 +18,13 @@ Welcome future **CSE 15L** students or future self in this guide I will guide yo
 ---
 ## REMOTELY Connecting  
 ---
-For **REFERENCE** - ```ruby 
-                       $ command outputed to remote server 
-                    ```  
-                            ```              $command to own device 
-                            ```
+For **REFERENCE**  
+```  
+$ command outputed to remote server 
+```  
+```
+$command to own device 
+```
                     
  3. **Open** a new terminal(*2 ways*)
       * ctrl + ` is a short cut to open a terminal
