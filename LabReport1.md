@@ -52,7 +52,7 @@ $ ssh cse15lsp23<username>@iegn6.ucsd.edu
  sapphire
  ## SIDE Note
  
- I enocunter many issues with reseting my course specific account password [RESET CSE 15L PASSWORD](https://sdacs.ucsd.edu/~icc/index.php). After Reseting my password and processing with Remotely connecting I could not login using my password it would say either
+ I enocunter many issues with reseting my course specific account password [RESET CSE 15L PASSWORD](https://sdacs.ucsd.edu/~icc/index.php). After Reseting my password and processing with Remotely connecting I could not login using my password it would the remote sever would output
 ```
 permission denied
 ``` 
@@ -60,7 +60,7 @@ permission denied
 ```
 connection issues
 ``` 
- I recommend alerting your IA or tutor of this problem to be resolved 
+ I recommend alerting your IA or tutor of this problem to be resolved.
  
  
       
