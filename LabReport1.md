@@ -41,7 +41,8 @@ $ ssh cse15lsp23<username>@iegn6.ucsd.edu
  ```ruby
  yes
  ```
- this message is prompted after connecting to a server for the first time.
+ this message is prompted after connecting to a server for the first time.  
+ 
  ![figure 1.4](<img width="522" alt="Screenshot 2023-04-09 at 6 13 10 PM" src="https://user-images.githubusercontent.com/125671517/230806499-fe5b2cad-e685-477d-bfd5-a4aa6d9703ed.png">
 )  
  
