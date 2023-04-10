@@ -49,10 +49,17 @@ $ ssh cse15lsp23<username>@iegn6.ucsd.edu
  for security measures when you type no characters will appear in command prompt 
  
  ---
- ```sapphire
+ sapphire
  ## SIDE Note
+ 
+ I enocunter many issues with reseting my course specific account password [RESET CSE 15L PASSWORD](https://sdacs.ucsd.edu/~icc/index.php). After Reseting my password and processing with Remotely connecting  
+ I could not login using my password it would say either
  ```
- I enocunter many issues with 
+ permission denied
+ ``` or
+ ```
+ connection issues
+ ``` I recommend alerting your IA or tutor of this problem to be resolved 
  
  
       
