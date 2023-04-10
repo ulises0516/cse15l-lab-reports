@@ -28,11 +28,20 @@ $ command outputed to remote server
 $ command to own device 
 ```
                     
- 3. **Open** a new terminal(*2 ways*)
+ 3. To **SSH** into remote server **Open** a new terminal(*2 ways*)
       * ctrl + ` is a short cut to open a terminal
       * manually open it by scrolling up to **terminal** and clicking **New Terminal**(see figure 1.3)
       * ![figure 1.3](<img width="1504" alt="Screenshot 2023-04-09 at 4 24 43 PM" src="https://user-images.githubusercontent.com/125671517/230801491-2674c363-a037-4656-871b-1b0865a52a8e.png">
 )	
- 4. 
+ 4. After type in command line 
+```ruby
+$ ssh cse15lsp23<username>@iegn6.ucsd.edu
+```
+ **Note**- After this line it will display a question (see figure 1.4) type
+ ```ruby
+ yes
+ ```
+ this message is prompted after connecting to a server for the first time. 
+ 
       
 
