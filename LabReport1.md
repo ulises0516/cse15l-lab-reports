@@ -21,7 +21,7 @@ Welcome future **CSE 15L** students or future self in this guide I will guide yo
 For **REFERENCE** - ```ruby 
                        $ command outputed to remote server 
                     ```  
-                       ```   $ command to own device 
+                       ```        $ command to own device 
                        ```
                     
  3. **Open** a new terminal(*2 ways*)
