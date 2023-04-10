@@ -33,7 +33,7 @@ $ command to own device
       * manually open it by scrolling up to **terminal** and clicking **New Terminal**(see figure 1.3)
       * ![figure 1.3](<img width="1504" alt="Screenshot 2023-04-09 at 4 24 43 PM" src="https://user-images.githubusercontent.com/125671517/230801491-2674c363-a037-4656-871b-1b0865a52a8e.png">
 )	
- 4. After type in command line 
+ 4. After type in command line(replace <username>)
 ```ruby
 $ ssh cse15lsp23<username>@iegn6.ucsd.edu
 ```
@@ -41,7 +41,17 @@ $ ssh cse15lsp23<username>@iegn6.ucsd.edu
  ```ruby
  yes
  ```
- this message is prompted after connecting to a server for the first time. 
+ this message is prompted after connecting to a server for the first time.
+ ![figure 1.4](<img width="522" alt="Screenshot 2023-04-09 at 6 13 10 PM" src="https://user-images.githubusercontent.com/125671517/230806499-fe5b2cad-e685-477d-bfd5-a4aa6d9703ed.png">
+)
+ Then you should proceed in typing your password
+ **Note**- you may question why isn't your password showing up. This is done in purpose. 
+ for security measures when you type no characters will appear in command prompt 
+ 
+ ---
+ ## SIDE Note
+ I enocunter many issues with 
+ 
  
       
 
