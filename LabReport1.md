@@ -49,7 +49,9 @@ $ ssh cse15lsp23<username>@iegn6.ucsd.edu
  for security measures when you type no characters will appear in command prompt 
  
  ---
+ ```blue
  ## SIDE Note
+ ```
  I enocunter many issues with 
  
  
