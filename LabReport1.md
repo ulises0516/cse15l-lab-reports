@@ -68,14 +68,27 @@ I recommend taking a screen shot of what the terminal outputed. Also discussing 
  ---
  Using the VS-CODE terminal type in commands in the termial and take note on what they produced and any errors if any
 ```ruby
-cd~    
-cd  
-ls -lat  
-ls -a. 
-ls <directory> (replace with an aboslute path to another users account name remember the first 9 characters are the same for everyone) 
+cd~
+```
+```ruby
+cd 
+```
+```ruby
+ls -lat
+```
+```ruby
+ls -a
+```
+```ruby
+ls <directory> (replace with an aboslute path to another users account name remember the first 9 characters are the same for everyone)
+```
+```ruby
 cp /home/linux/ieng6/cs15lsp23/public/hello.txt~/
+```
+```ruby
 cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 ```
+**Note**- 
  
       
 
