@@ -43,13 +43,12 @@ $ ssh cse15lsp23<username>@iegn6.ucsd.edu
  ```
  this message is prompted after connecting to a server for the first time.
  ![figure 1.4](<img width="522" alt="Screenshot 2023-04-09 at 6 13 10 PM" src="https://user-images.githubusercontent.com/125671517/230806499-fe5b2cad-e685-477d-bfd5-a4aa6d9703ed.png">
-)
- Then you should proceed in typing your password
- **Note**- you may question why isn't your password showing up. This is done in purpose. 
- for security measures when you type no characters will appear in command prompt 
+)   
+Then you should proceed in typing your password
+ **Note**- you may question why isn't your password showing up. This is done on purpose for security measures when you type no characters will appear in command prompt.
  
  ---
- ## SIDE NOTE
+  ## SIDE NOTE
  ---
  
  I enocunter many issues with reseting my course specific account password [RESET CSE 15L PASSWORD](https://sdacs.ucsd.edu/~icc/index.php). After Reseting my password and processing with Remotely connecting I could not login using my password it would the remote sever would output
