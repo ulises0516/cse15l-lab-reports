@@ -49,8 +49,8 @@ $ ssh cse15lsp23<username>@iegn6.ucsd.edu
  for security measures when you type no characters will appear in command prompt 
  
  ---
- sapphire
- ## SIDE Note
+ 
+ ## SIDE NOTE
  
  I enocunter many issues with reseting my course specific account password [RESET CSE 15L PASSWORD](https://sdacs.ucsd.edu/~icc/index.php). After Reseting my password and processing with Remotely connecting I could not login using my password it would the remote sever would output
 ```
