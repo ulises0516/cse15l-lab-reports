@@ -16,7 +16,7 @@ Welcome future **CSE 15L** students or future self in this guide I will guide yo
 )	
 
 ---
-## REMOTELY Connecting  
+## REMOTELY Connecting
 ---
 For **REFERENCE**- non Higlighed ```
                                  <code>
@@ -49,9 +49,9 @@ $ ssh cse15lsp23<username>@iegn6.ucsd.edu
 Then you should proceed in typing your password
  **Note**- you may question why isn't your password showing up. This is done on purpose for security measures when you type no characters will appear in command prompt.
  
- ---
-  ## SIDE NOTE
- ---
+---
+## SIDE NOTE
+---
  
  I enocunter many issues with reseting my course specific account password [RESET CSE 15L PASSWORD](https://sdacs.ucsd.edu/~icc/index.php). After Reseting my password and processing with Remotely connecting I could not login using my password the remote sever would output
 ```
