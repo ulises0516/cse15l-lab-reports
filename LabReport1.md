@@ -39,7 +39,7 @@ $ ssh cse15lsp23<username>@iegn6.ucsd.edu
 ```
  **Note**- After this line it will display a question (see figure 1.4) type
  ```ruby
- yes
+ $ yes
  ```
  this message is prompted after connecting to a server for the first time.  
  
