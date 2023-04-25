@@ -90,7 +90,16 @@ $ cp /home/linux/ieng6/cs15lsp23/public/hello.txt~/
 $ cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 ```
 **Note**- Mess with the commands attempt to produce errors or different outcomes than group members take note what different outputs  
- produced between your lab members.
+ produced between your lab members. Specfically some of my commands outputed different than my lab group ask yourself why is that? 
+ 
+ *  ```CD``` moves your current directory
+ *  ```ls lat``` seems it dsplays the content of you files and directories that are contained in the CD
+ *  ``` ls a``` I presume shows all the files
+ *  ``` cat ``` is suppose to print but it doesnt print anything why so?(look at path)
+ 
+ etc Take note of each command I noticed some of these outputted these and ask my lab group what they about as well and this  
+ is what we thought these commands did before lab ended. I encourage you to search up beyond this class for extra clarification 
+ on what each command does!
  
       
 
