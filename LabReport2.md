@@ -1,6 +1,47 @@
 # Lab Report 2 
 
 
+
+---
+## Part 1
+---
+
+**String Server Code implementation**
+
+*This is my code
+```
+ StringBuilder s= new StringBuilder();
+    public String handleRequest(URI url) {
+        if (url.getPath().contains("/add")) {
+            String[] parameter0 = url.getQuery().split("=");
+            if (parameter0[0].equals("s")) {
+                s.append( parameter0[1] + "\n");
+                System.out.println(s.toString());
+                return s.toString();
+
+            }
+        }
+
+        return "404 Not Found!";
+
+    }
+}
+```
+![Server in Real time with 1 Request](<img width="776" alt="Screenshot 2023-04-24 at 10 17 04 PM" src="https://user-images.githubusercontent.com/125671517/234181596-d37b3bc0-3acb-4339-9db4-6d7d96abcd47.png">
+)
+
+
+![Server in Real time with 2 request](<img width="794" alt="Screenshot 2023-04-24 at 10 17 14 PM" src="https://user-images.githubusercontent.com/125671517/234181724-0ac90eb3-391a-4bda-88f8-5a84427a4d60.png">
+)	
+
+---
+**Methods Called(in previous two images)**
+---
+
+
+
+
+
 ---
 ## Part 2
 ---
