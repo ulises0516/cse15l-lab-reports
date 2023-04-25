@@ -63,13 +63,22 @@ static void reverseInPlace(int[] arr) {
   }
 ```
 ---
-**What I did?**
+**What did the new implmenetation Do **
 
 * I implemented ```i < arr.length/2``` to stop the code from looping twice. 
  ``` i < arr.length```essentially reverses the array then reverses again which goes back to the original array position.
 * I also added ``` int temp = arr[i]``` as a temp variable to hold the value of the original 
 value at i index in the arr Array. Which makes the middle value stay the same. ``` arr arr[arr.length - i - 1]= temp; ``` then sets the changed index to original value .
 ---
+
+---
+## Part 3 
+---
+
+**What I learned**
+
+I learned thatt Junit test can be quite helpful in debugging your code. In testing from the ground up can unveil new bugs in your program. I learned to closely look at your symptom what ever you output to know where to look to find the bug. I also learned how to start up a server which is very cool!.
+
 
 
 
