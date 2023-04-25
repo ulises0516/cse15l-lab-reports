@@ -54,9 +54,10 @@ and what is before the equals sign.
 
 ---
 
-**How do the values of any relevant fields of the class change from this specific request?**
+**How do the values of any relevant fields of the class change from this specific request?** 
+
  
-An invalid path would return an "error 404" or if the value before the "=" is not s which will throw an error as well. If there is "=" the values can be split and so an error woould occur. 
+  An invalid path would return an "error 404" or if the value before the "=" is not s which will throw an error as well. If there is "=" the values can be split and so an error woould occur. 
 
 
 ---
