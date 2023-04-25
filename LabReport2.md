@@ -5,7 +5,7 @@
 ## Part 2
 
 
-** Failure Inducing Junit test**
+**Failure Inducing Junit test**
 ```ruby
 @Test
 public void testReverseMultipleInPlace() {
@@ -38,7 +38,7 @@ To see faulty program behavior you can see outputed look at figure 1.1.
 
 **What was the Bug?**
 
-  ** *Program with bug* ** 
+   *Program with bug*
 ```ruby
 static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length; i += 1) {
@@ -46,7 +46,7 @@ static void reverseInPlace(int[] arr) {
     }
   }
 ```
-  ** *Program without bug(fixed)* ** 
+  *Program without bug(fixed)* 
  ```ruby
 static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length/2; i += 1) {
