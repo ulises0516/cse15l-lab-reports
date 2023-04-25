@@ -62,6 +62,7 @@ static void reverseInPlace(int[] arr) {
   }
 ```
 ---
+---
 **What I did?**
 ---
 * I implemented ```i < arr.length/2``` to stop the code from looping twice. 
