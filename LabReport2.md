@@ -36,14 +36,21 @@
 ---
 **Methods Called(in previous two images)**
 
- *Server start is called   
- *Handle is called. 
- *Append is called. 
- *toString is called. 
- *.equals() is called. 
- *getPath() is called   
- *contains is called.  
- *HandleRequest is called. 
+ *Server start is called
+ 
+ *Handle is called
+ 
+ *Append is called
+ 
+ *toString is called
+ 
+ *.equals() is called
+ 
+ *getPath() is called 
+ 
+ *contains is called  
+ 
+ *HandleRequest is called
 
 ---
 
