@@ -40,7 +40,7 @@ To see faulty program behavior you can see outputed look at figure 1.1.
 )
 ---
 **What was the Bug?**
----
+
 
    *Program with bug*
 ```ruby
@@ -61,7 +61,6 @@ static void reverseInPlace(int[] arr) {
     
   }
 ```
----
 ---
 **What I did?**
 ---
