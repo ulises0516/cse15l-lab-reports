@@ -34,8 +34,8 @@ for an **Array** that holds a singular element.
 ---
 **What was the Symptom?** 
 
-
 To see faulty program behavior you can see outputed look at figure 1.1. 
+
 ![Figure 1.1 ](<img width="699" alt="Screenshot 2023-04-20 at 4 33 45 PM" src="https://user-images.githubusercontent.com/125671517/234164381-a73c6a90-0c6a-4889-91a6-fde18129de32.png">
 )
 ---
