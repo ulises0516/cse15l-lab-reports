@@ -81,7 +81,7 @@ public void testReverseMultipleInPlace() {
     assertArrayEquals(new int[] { 3, 2, 1 }, input1);
   }
 ```
-**SideNote:** This Junit test failed because the Progam didnt account for. 
+**SideNote**: This Junit test failed because the Progam didnt account for. 
 an **Array** size of more than 1 element causing the program to fail. 
 
 **Passed Junit test**
@@ -93,7 +93,7 @@ public void testReverseInPlace() {
     assertArrayEquals(new int[] { 3 }, input1);
   }
 ```
-**Side Note**This this Junit test passed because of the array size. 
+**Side Note**: This this Junit test passed because of the array size. 
 the program worked because the code for ReverseInPlace was correct
 for an **Array** that holds a singular element.
 
@@ -143,7 +143,7 @@ value at i index in the arr Array. Which makes the middle value stay the same. `
 
 **What I learned**
 
-I learned thatt Junit test can be quite helpful in debugging your code. In testing from the ground up can unveil new bugs in your program. I learned to closely look at your symptom what ever you output to know where to look to find the bug. I also learned how to start up a server which is very cool!.
+I learned that Junit test can be quite helpful in debugging your code. In testing from the ground up can unveil new bugs in your program. I learned to closely look at your symptom what ever you output to know where to look to find the bug. I also learned how to start up a server which is very cool!.
 
 
 
