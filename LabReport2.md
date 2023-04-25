@@ -63,7 +63,7 @@ static void reverseInPlace(int[] arr) {
   }
 ```
 ---
-**What did the new implmenetation Do **
+**What did the new implmenetation Do**
 
 * I implemented ```i < arr.length/2``` to stop the code from looping twice. 
  ``` i < arr.length```essentially reverses the array then reverses again which goes back to the original array position.
