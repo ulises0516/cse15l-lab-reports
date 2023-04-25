@@ -1,8 +1,9 @@
 # Lab Report 2 
 
 
-
+---
 ## Part 2
+---
 
 
 **Failure Inducing Junit test**
@@ -14,10 +15,10 @@ public void testReverseMultipleInPlace() {
     assertArrayEquals(new int[] { 3, 2, 1 }, input1);
   }
 ```
-** *SideNote:* ** This Junit test failed because the Progam didnt account for. 
+**SideNote:** This Junit test failed because the Progam didnt account for. 
 an **Array** size of more than 1 element causing the program to fail. 
 
-** Passed Junit test **
+**Passed Junit test**
 ```ruby
 @Test
 public void testReverseInPlace() {
@@ -26,17 +27,20 @@ public void testReverseInPlace() {
     assertArrayEquals(new int[] { 3 }, input1);
   }
 ```
-** *Side Note* **This this Junit test passed because of the array size. 
+**Side Note**This this Junit test passed because of the array size. 
 the program worked because the code for ReverseInPlace was correct
 for an **Array** that holds a singular element.
 
+---
 **What was the Symptom?** 
+---
 
 To see faulty program behavior you can see outputed look at figure 1.1. 
 ![Figure 1.1 ](<img width="699" alt="Screenshot 2023-04-20 at 4 33 45 PM" src="https://user-images.githubusercontent.com/125671517/234164381-a73c6a90-0c6a-4889-91a6-fde18129de32.png">
 )
-
+---
 **What was the Bug?**
+---
 
    *Program with bug*
 ```ruby
@@ -57,8 +61,9 @@ static void reverseInPlace(int[] arr) {
     
   }
 ```
- 
+---
 **What I did?**
+---
 * I implemented ```i < arr.length/2``` to stop the code from looping twice. 
  ``` i < arr.length```essentially reverses the array then reverses again which goes back to the original array position.
 * I also added ``` int temp = arr[i]``` as a temp variable to hold the value of the original 
