@@ -16,7 +16,6 @@
             String[] parameter0 = url.getQuery().split("=");
             if (parameter0[0].equals("s")) {
                 s.append( parameter0[1] + "\n");
-                System.out.println(s.toString());
                 return s.toString();
 
             }
@@ -36,13 +35,32 @@
 
 ---
 **Methods Called(in previous two images)**
+
+ *Server start is called 
+ *Handle is called
+ *Append is called
+ *toString is called
+ *.equals() is called
+ *getPath() is called 
+ *contains is called 
+ *HandleRequest is called
+
+---
+
+**Relevant arguments to those method**
+
+Revelant Arguments is the url , the path , what is placed after the "=" sign
+and what is before the equals sign.
+
+---
+
+**How do the values of any relevant fields of the class change from this specific request?**
+ An invalid path would return an "error 404" or if the value before the "=" is not s which will throw an error as well. If there is "=" the values can be split and so an error woould occur. 
+
+
 ---
 
 
-
-
-
----
 ## Part 2
 ---
 
