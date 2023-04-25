@@ -93,7 +93,11 @@ $ cat /home/linux/ieng6/cs15lsp23/public/hello.txt
  produced between your lab members. Specfically some of my commands outputed different than my lab group ask yourself why is that? 
  
  *  ```CD``` moves your current directory
- *  ```ls lat``` seems it dsplays the content of you files and directories that are contained in the CD
+ *  ```ls lat``` seems it dsplays the content of you files and directories that are contained in the CD(see figure 2.2) and to see other commands
+ 
+ ![figure 2.2](<img width="590" alt="Screenshot 2023-04-06 at 5 29 24 PM" src="https://user-images.githubusercontent.com/125671517/234192293-36a26339-077e-4f3f-86f8-22298c23d059.png">
+)
+ 
  *  ``` ls a``` I presume shows all the files
  *  ``` cat ``` is suppose to print but it doesnt print anything why so?(look at path)
  
