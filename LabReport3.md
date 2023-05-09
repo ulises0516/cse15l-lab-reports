@@ -1,6 +1,6 @@
 # Lab Report 3
 --- 
-  ## First option of grep 
+  ## First option of grep (*grep -c*)
   ``` 
       find technical/ > find-results.txt
       grep -c "preface" find-results.txt
