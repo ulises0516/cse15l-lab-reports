@@ -1,7 +1,8 @@
 # Lab Report 3
 --- 
   ## First option of grep 
-  ``` find technical/ > find-results.txt
+  ``` 
+      find technical/ > find-results.txt
       grep -c "preface" find-results.txt
   ```
   **How it Works** 
