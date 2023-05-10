@@ -1,7 +1,9 @@
 # Lab Report 3
 --- 
   **Sources:** 
-  [Geeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)    
+  
+  [Geeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)  
+  
   [ChatGpt](https://chat.openai.com/)
   
   ## 1st option of grep (*grep -c*)
@@ -43,7 +45,9 @@
  
 ---
 **Sources:** 
-[Geeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)   
+
+[Geeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+
 [ChatGpt](https://chat.openai.com/)
 
 ## 2nd option of grep (*grep -i*)
@@ -107,7 +111,9 @@
    
    ---
    **Sources:** 
+   
    [Geeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)  
+   
    [ChatGpt](https://chat.openai.com/)
    
    ## 3rd option for grep (*grep -w)
@@ -153,7 +159,9 @@
   
   ---
   **Sources:** 
+  
   [Geeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/) 
+  
   [ChatGpt](https://chat.openai.com/)
   
   ## 4th option of grep (*grep -R*)
