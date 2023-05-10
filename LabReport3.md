@@ -1,7 +1,8 @@
 # Lab Report 3
 --- 
-  **Sources:** [Geeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)  
-               [ChatGpt](https://chat.openai.com/)
+  **Sources:** 
+  [Geeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)    
+  [ChatGpt](https://chat.openai.com/)
   
   ## 1st option of grep (*grep -c*)
   
@@ -41,8 +42,9 @@
   is useful if just want to display only the count of lines eliminating clutter in your command line.
  
 ---
-**Sources:** [Geeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)  
-             [ChatGpt](https://chat.openai.com/)
+**Sources:** 
+[Geeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)   
+[ChatGpt](https://chat.openai.com/)
 
 ## 2nd option of grep (*grep -i*)
   
@@ -104,8 +106,10 @@
    
    
    ---
-   **Sources:** [Geeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/) 
-                [ChatGpt](https://chat.openai.com/)
+   **Sources:** 
+   [Geeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)  
+   [ChatGpt](https://chat.openai.com/)
+   
    ## 3rd option for grep (*grep -w)
    
    --- 
@@ -148,8 +152,9 @@
   "uknown" in the output.
   
   ---
-  **Sources:** [Geeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/) 
-               [ChatGpt](https://chat.openai.com/)
+  **Sources:** 
+  [Geeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/) 
+  [ChatGpt](https://chat.openai.com/)
   
   ## 4th option of grep (*grep -R*)
   
