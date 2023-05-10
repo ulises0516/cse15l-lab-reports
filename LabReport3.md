@@ -138,6 +138,9 @@
   It is useful when you want to search for an exact word and not include any partial matches. For  
   example if you searching for "known" using ```grep -w``` it will not include any words like 
   "uknown" in the output.
+  
+  
+  ## 4th option of grep (*grep
    
    
 
