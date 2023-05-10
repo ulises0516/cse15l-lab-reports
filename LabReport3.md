@@ -92,9 +92,14 @@
    
    **How is it useful** 
    
-   It can be annoying to write all caps out everyone knows this but the most useful thing is. 
-   is it elimnates the any outlier you may miss if you are seraching for a word "The" or "the 
+   It can be annoying to write all caps out everyone knows this but the most useful thing is 
+   it elimnates the any outlier you may miss if you are seraching for a word "The" or "the 
    ``` grep -i ``` will displays both.
+   
+   
+   ---
+   
+
    
    
 
