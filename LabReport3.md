@@ -1,5 +1,8 @@
 # Lab Report 3
 --- 
+  **Sources:** [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+               [Link](https://chat.openai.com/)
+  
   ## 1st option of grep (*grep -c*)
   
   ---
@@ -38,6 +41,9 @@
   is useful if just want to display only the count of lines eliminating clutter in your command line.
  
 ---
+**Sources:** [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+             [Link](https://chat.openai.com/)
+
 ## 2nd option of grep (*grep -i*)
   
   ---
@@ -98,6 +104,8 @@
    
    
    ---
+   **Sources:** [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+                [Link](https://chat.openai.com/)
    ## 3rd option for grep (*grep -w)
    
    --- 
@@ -139,8 +147,14 @@
   example if you searching for "known" using ```grep -w``` it will not include any words like 
   "uknown" in the output.
   
+  ---
+  **Sources:** [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+               [Link](https://chat.openai.com/)
   
-  ## 4th option of grep (*grep
+  ## 4th option of grep (*grep -R*)
+  
+  
+     
    
    
 
