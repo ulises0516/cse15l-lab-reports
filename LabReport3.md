@@ -10,7 +10,8 @@
      $ find technical/ > find-results.txt
      $ grep -c "preface" find-results.txt
   ```
-  ---
+  
+  --- 
   Example 2
   ---
   
