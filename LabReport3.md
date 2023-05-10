@@ -48,9 +48,10 @@
     ---
     Example 2
     ```
-    e
+    $ grep -i "ssc" technical/biomed/1471-213X-1-1.txt
     ```
-    out puts 
+    ---
+   
             
             ```
                 PTCA/stent], angina [hospitalized or treated as an
