@@ -52,14 +52,14 @@
     ```
     out puts ```
                 PTCA/stent], angina [hospitalized or treated as an
-        outpatient], heart failure [HF/treated in the hospital or
-        of HF (fatal, hospitalized and treated but nonhospitalized)
-          revascularization procedures, angina treated in the
-          arterial disease treated in the hospital or with
-          outpatient revascularization, and HF, fatal or treated in
-          2) treated, non-hospitalized HF; and, 3) no HF.
-          hospitalized or treated HF were compared between the two
-          and doxazosin groups, respectively. Treated,
-          Among participants treated but not hospitalized for
-          ```
+                outpatient], heart failure [HF/treated in the hospital or
+                of HF (fatal, hospitalized and treated but nonhospitalized)
+                revascularization procedures, angina treated in the
+                arterial disease treated in the hospital or with
+                outpatient revascularization, and HF, fatal or treated in
+                2) treated, non-hospitalized HF; and, 3) no HF.
+                hospitalized or treated HF were compared between the two
+                and doxazosin groups, respectively. Treated,
+                Among participants treated but not hospitalized for
+            ```
     
