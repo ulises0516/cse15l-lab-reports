@@ -37,6 +37,16 @@
   the character words and amount of lines. ```$ grep -c```  just displays the amount of lines. This
   is useful if just want to display only the count of lines eliminating clutter in your command line.
  
-dddw\
+---
+## Second option of grep (*grep -i*)
+ ---
+    Example 1
+    $ grep -i "research" technical/biomed/1468-6708-3-10.txt
+    Example 2
+    $ grep -i "ssc" technical/biomed/1471-213X-1-1.txt
+    ---
+      **How it Works** 
+      The line searches through the file to match "ssc" however the -i  makes it so searches. 
+      case insensitive. 
 
      
