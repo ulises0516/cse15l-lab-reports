@@ -7,7 +7,7 @@
   [ChatGpt](https://chat.openai.com/)
   
   ## 1st option of grep(*grep -c*)
-  ---
+
   Example 1
   
   
