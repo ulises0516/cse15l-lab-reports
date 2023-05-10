@@ -165,6 +165,50 @@
   [ChatGpt](https://chat.openai.com/)
   
   ## 4th option of grep (*grep -R*)
+  ---
+  
+  Example 1
+  
+  ```
+  $ grep -A1 ICIDE technical/biomed/1475-2875-1-14.txt
+  ```
+  
+  Example 2
+  ```
+  $ grep -A3 recruiting technical/biomed/1475-4924-1-5.txt
+  ```
+  
+  **How it Works(example 1)**
+  
+  In the first example the command ```grep -A1``` use to print n lines after its matches
+  the line the n in this example is ```1```.
+  *The output is*
+  ```
+  This research was supported by NIH ICIDE and ABC
+        Training grant numbers: D43 TW01142 and U19 AI45511 and NSF
+  ```
+  
+  **How it Works(example 2)**
+  
+  In the second example in the command prints 3 lines after it finds the "recruiting" in the
+  text file. In this case n is ```3```.
+  *The output is*
+  ```
+  transcriptional machinery by recruiting the latter's
+        protein complexes to the promoter. Second, transcription
+        factors may bend or twist the DNA, altering the way in
+        which other transcription factors interact with the DNA.
+  ```
+  **How is this Useful**
+  
+  This command option can help reveal context a few lines after each the matching line to get
+  extra information if there is a issue.
+  
+  
+  
+  
+  
+  
   
   
      
