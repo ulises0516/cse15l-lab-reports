@@ -5,9 +5,7 @@
   [Geeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)  
   
   [ChatGpt](https://chat.openai.com/)
-  
-  ## 1st option of grep (*grep -c*)
-  
+  ##1st option of grep(*grep -c*)
   ---
   Example 1
   
@@ -50,9 +48,8 @@
 
 [ChatGpt](https://chat.openai.com/)
 
-## 2nd option of grep (*grep -i*)
-  
-  ---
+##2nd option of grep (*grep -i)
+ ---
   Example 1
   ```
   $ grep -i "gaba" technical/biomed/1471-213X-1-1.txt
@@ -115,9 +112,7 @@
    [Geeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)  
    
    [ChatGpt](https://chat.openai.com/)
-   
-   ## 3rd option for grep (*grep -w)
-   
+  ##3rd option of grep (*grep -w)
    --- 
    
    Example 1
@@ -164,7 +159,7 @@
   
   [ChatGpt](https://chat.openai.com/)
   
-  ## 4th option of grep (*grep -R*)
+  ##4th option of grep (*grep -R*)
   ---
   
   Example 1
