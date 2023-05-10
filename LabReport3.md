@@ -38,6 +38,20 @@
   is useful if just want to display only the count of lines eliminating clutter in your command line.
  
  --- 
+
+  ## Second option of grep (*grep -i*)
+  
+ ---
+ 
+    ---
+    Example 1
+    
+    ```
+    
+    $ grep -i "research" technical/biomed/1468-6708-3-10.txt
+    
+    ```
+      
  
  
   
