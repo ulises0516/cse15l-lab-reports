@@ -50,6 +50,7 @@
 [ChatGpt](https://chat.openai.com/)
 
 ## 2nd option of grep (*grep -i)
+
  ---
   Example 1
   ```
@@ -115,6 +116,7 @@
    [ChatGpt](https://chat.openai.com/)
    
   ## 3rd option of grep (*grep -w)
+  
    --- 
    
    Example 1
@@ -162,6 +164,7 @@
   [ChatGpt](https://chat.openai.com/)
   
   ## 4th option of grep (*grep -R*)
+  
   ---
   
   Example 1
