@@ -1,6 +1,6 @@
 # Lab Report 3
 --- 
-  ## First option of grep (*grep -c*)
+  ## 1st option of grep (*grep -c*)
   
   ---
   Example 1
@@ -24,7 +24,7 @@
   The first line in example 1 starts searching from techincal/ and finds all the directories. 
   and "finds" the files and directoreis essentially a walking file hiearchy. The. 
   second line with the option "-c" counts the amount of lines that matches a pattern. 
-  which I gave "preface" in the find-results.txt. This would output 1 as the result.
+  which I gave "preface" in the find-results.txt. This would output ```1``` as the result.
   
   **How its Works(Example 2)**
   
@@ -54,7 +54,7 @@
   **How it works(example 1)**
   
    The command grep -i searches the text file "gaba" but in a case insensitive way.
-   The output for this command was
+   *The output for this command was*
    ```
    the inhibitory neurotransmitter γ-amino butyric acid (GABA)
         Gad2 respectively [ 1, 2, 3]. GABA
@@ -82,7 +82,7 @@
   **How it works(example 2**
    
    The command grep -i searches the text file for "scc" ignoring case sensitivity.
-   The output for this command was 
+  *The output for this command was*
    ```
     to the probe overnight in 50% formamide, 5X SSC (pH 5.0),
         at high stringency in prewarmed 50% formamide, 5X SSC, 1%
@@ -93,11 +93,52 @@
    **How is it useful** 
    
    It can be annoying to write all caps out everyone knows this but the most useful thing is 
-   it elimnates the any outlier you may miss if you are seraching for a word "The" or "the 
+   it elimnates the any outlier you may miss if you are seraching for a word. For example "The" or "the 
    ``` grep -i ``` will displays both.
    
    
    ---
+   ## 3rd option for grep (*grep -w)
+   
+   --- 
+   
+   Example 1
+   
+   ```
+   $grep -w "known" technical/biomed/1471-2091-2-10.txt
+   ```
+   ---
+   
+   Example 2
+   
+   ```
+   grep -w "awareness" technical/biomed/1475-2875-1-14.txt
+   ```
+   ---
+   **How it works(example 1)**
+   
+   The first example searches through the text file provided and matches any lines with ```known```. 
+   It will match the word exactly this is what ```-w``` does essentially avoiding partial matches.
+   *The output for command is* 
+   ```
+   although manganese is well known to "activate" β1
+   ```
+   
+   **How it works(example 2)**
+   
+   The second example shows grep searches through the text file provided and outputs any lines that 
+   match ```awareness```.  It matches the word exactly leaving any partial matches out of the output.
+   *The output for the command is*
+   ```
+   years. Since 1995 there has been increased awareness of
+        Kenya. Secondly, this awareness enabled the formation of
+   ```
+   **How is it Useful**
+   
+  It is useful when you want to search for an exact word and not include any partial matches. For  
+  example if you searching for "known" using ```grep -w``` it will not include any words like 
+  "uknown" in the output.
+   
    
 
    
