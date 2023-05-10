@@ -4,20 +4,20 @@
   
   ---
   Example 1
-  ---
+  
   
   ``` 
      $ find technical/ > find-results.txt
      $ grep -c "preface" find-results.txt
   ```
-  
   --- 
   Example 2
-  ---
+  
   
   ```
     $ grep -c "treat" technical/biomed/1468-6708-3-10.txt
   ```
+  ---
   
   **How it Works(Example 1)** 
   
