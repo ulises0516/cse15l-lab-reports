@@ -50,7 +50,9 @@
     ```
     e
     ```
-    out puts ```
+    out puts 
+            
+            ```
                 PTCA/stent], angina [hospitalized or treated as an
                 outpatient], heart failure [HF/treated in the hospital or
                 of HF (fatal, hospitalized and treated but nonhospitalized)
