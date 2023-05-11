@@ -6,7 +6,7 @@
   
   [ChatGpt](https://chat.openai.com/)
   
-  ---
+  
   
 ## 1st option of grep (grep -c )
   
@@ -119,7 +119,7 @@
    
    [ChatGpt](https://chat.openai.com/)
    
-  ## 3rd option of grep (*grep -w)
+## 3rd option of grep (*grep -w)
   
    --- 
    
@@ -167,7 +167,7 @@
   
   [ChatGpt](https://chat.openai.com/)
   
-  ## 4th option of grep (*grep -R*)
+## 4th option of grep (*grep -R*)
   
   ---
   
