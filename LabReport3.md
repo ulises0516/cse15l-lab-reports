@@ -8,7 +8,7 @@
   
   ---
   
-  ## 1st option of grep (grep -c )
+## 1st option of grep (grep -c )
   
   ---
   
