@@ -8,18 +8,16 @@ This would sign me into my account with the provided
 information see figure 1.1 
 
 
-![figure 1.1](<img width="717" alt="Screenshot 2023-05-22 at 3 44 15 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/ec2e6000-69ef-4efe-b586-37a8db610881">
-)
+![figure 1.1](<img width="717" alt="Screenshot 2023-05-22 at 3 44 15 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/ec2e6000-69ef-4efe-b586-37a8db610881">)
 
-I generated an ssh key so this will not prompt me for my password :smile:.  [^1]
+I generated an ssh key so this will not prompt me for my password :smile:. [^1]
 
 ## Clone your fork of the repository from your Github account ( Step 5 )
 ```$ git clone https://github.com/ulises0516/lab7.git```
 
 This would clone us into our git repository we forked previously.
 
-![figure2.2](<img width="505" alt="Screenshot 2023-05-22 at 4 37 20 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/8a12ecaa-e45c-4374-a1b9-d1ac9660c06b">
-)
+![figure2.2](<img width="505" alt="Screenshot 2023-05-22 at 4 37 20 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/8a12ecaa-e45c-4374-a1b9-d1ac9660c06b">)
 
 ```cd lab7``` before continuing onto next step. This image shows the information provided after cloning. [^1]
 
@@ -30,8 +28,7 @@ This would clone us into our git repository we forked previously.
 This would run the script to test the code you can also,however compile
 ```$ javac ListExamplesTests.java``` then ```$ java ListExamplesTests``` to show the errors of the tests.
 
-![figure 1.3](<img width="527" alt="Screenshot 2023-05-22 at 4 38 13 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/8c50724e-4990-4190-8233-21cf4c7e31a0">
-)
+![figure 1.3](<img width="527" alt="Screenshot 2023-05-22 at 4 38 13 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/8c50724e-4990-4190-8233-21cf4c7e31a0">)
 
 ## Edit the code file to fix the failing tests ( step 7 )
 
@@ -39,8 +36,7 @@ This would run the script to test the code you can also,however compile
 
 this will allow you to enter vim to edit the code see figure 1.4 to see how it looks like and on the right path.
 
-![figure 1.4](<img width="667" alt="Screenshot 2023-05-22 at 4 11 00 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/f4d4c80f-d18c-4943-911b-82fcb72d1df5">
-)
+![figure 1.4](<img width="667" alt="Screenshot 2023-05-22 at 4 11 00 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/f4d4c80f-d18c-4943-911b-82fcb72d1df5">)
 
 1. ```/``` 
 2. type **index1**
@@ -67,8 +63,7 @@ The frst step is a the default character that will alow you search for a word. T
 
 This should now display that the tests succeed see figure 1.5 for what the mesage should show 
 
-![figure 1.5](<img width="334" alt="Screenshot 2023-05-22 at 4 14 16 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/de6ab616-74c3-4c68-8d4d-140bcc978d80">
-)
+![figure 1.5](<img width="334" alt="Screenshot 2023-05-22 at 4 14 16 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/de6ab616-74c3-4c68-8d4d-140bcc978d80">)
 
 ## Commit and push resulting to change to your github account ( step 9)
 
@@ -80,8 +75,7 @@ Complete generating ssh keys for github for a smooth process
 
 Enter these commands in the sequence. However for ```$ git push``` put your ssh key from github under the code section then the section ssh. This will display your own if you completed ssh keys for github correctly. See figure 1.6 for a what a successful commit and push looks like.
 
-![figure 1.6](<img width="665" alt="Screenshot 2023-05-22 at 4 42 17 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/1646958e-af88-43ac-8b69-283e7d120b31">
-)
+![figure 1.6](<img width="665" alt="Screenshot 2023-05-22 at 4 42 17 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/1646958e-af88-43ac-8b69-283e7d120b31">)
 
 **Side Note**
 
