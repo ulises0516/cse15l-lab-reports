@@ -70,7 +70,27 @@ This should now display that the tests succeed see figure 1.5 for what the mesag
 ![figure 1.5](<img width="334" alt="Screenshot 2023-05-22 at 4 14 16 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/de6ab616-74c3-4c68-8d4d-140bcc978d80">
 )
 
-## Commit and push resulting to change to your github account ( step 9) 
+## Commit and push resulting to change to your github account ( step 9)
+
+Complete generating ssh keys for github for a smooth process 
+
+```$ git add ListExamples.java```
+```$ git commit -m "<enter message of your choosing>"```
+```$ git push git@github.com:ulises0516/lab7.git```
+
+Enter these commands in the sequence. However for ```$ git push``` put your ssh key from github under the code section then the section ssh. This will display your own if you completed ssh keys for github correctly. See figure 1.6 for a what a successful commit and push looks like.
+
+![figure 1.6](<img width="665" alt="Screenshot 2023-05-22 at 4 42 17 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/1646958e-af88-43ac-8b69-283e7d120b31">
+)
+
+**Side Note**
+
+You can press tab after typing ListE... and it would autofill the word ListExamples.java to be more quick.
+
+
+
+
+
 
 
 
