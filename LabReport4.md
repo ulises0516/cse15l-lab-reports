@@ -30,7 +30,8 @@ This would clone us into our git repository we forked previously.
 This would run the script to test the code you can also,however compile
 ```$ javac ListExamplesTests.java``` then ```$ java ListExamplesTests``` to show the errors of the tests.
 
-![figure 1.3](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/590a25f3-45e1-426b-ba14-e6fb69518401)
+![figure 1.3](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/0d2e248d-31d8-4a5a-93f2-27ea43b24a89)
+
 
 
 ## Edit the code file to fix the failing tests ( step 7 )
@@ -67,7 +68,7 @@ The frst step is a the default character that will alow you search for a word. T
 
 This should now display that the tests succeed see figure 1.5 for what the mesage should show 
 
-![figure 1.5](<img width="334" alt="Screenshot 2023-05-22 at 4 14 16 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/de6ab616-74c3-4c68-8d4d-140bcc978d80">)
+![figure 1.5](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/45e031fa-e198-4e66-ad05-2a617725238a)
 
 ## Commit and push resulting to change to your github account ( step 9)
 
