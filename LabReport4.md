@@ -17,6 +17,7 @@ I generated an ssh key so this will not prompt me for my password
 
 This would clone us into our git repository we forked previously.
 
+figure 1.2
 ![figure 1.2](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/cf59dd92-40f7-4466-874f-f1d133120c3c)
 
 
@@ -30,6 +31,8 @@ This would clone us into our git repository we forked previously.
 This would run the script to test the code you can also,however compile
 ```$ javac ListExamplesTests.java``` then ```$ java ListExamplesTests``` to show the errors of the tests.
 
+
+figure 1.3
 ![figure 1.3](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/0d2e248d-31d8-4a5a-93f2-27ea43b24a89)
 
 
@@ -40,6 +43,7 @@ This would run the script to test the code you can also,however compile
 
 this will allow you to enter vim to edit the code see figure 1.4 to see how it looks like and on the right path.
 
+figure 1.4
 ![figure 1.4](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/45e031fa-e198-4e66-ad05-2a617725238a)
 
 
@@ -68,6 +72,8 @@ The frst step is a the default character that will alow you search for a word. T
 
 This should now display that the tests succeed see figure 1.5 for what the mesage should show 
 
+
+figure 1.5
 ![figure 1.5](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/1195582d-4737-4ca4-97fa-5966cfe7c254)
 
 
@@ -81,6 +87,8 @@ Complete generating ssh keys for github for a smooth process
 
 Enter these commands in the sequence. However for ```$ git push``` put your ssh key from github under the code section then the section ssh. This will display your own if you completed ssh keys for github correctly. See figure 1.6 for a what a successful commit and push looks like.
 
+
+figure 1.6
 ![figure 1.6](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/7249e5dd-6aa6-44de-b425-8fb11ab42b62)
 
 
