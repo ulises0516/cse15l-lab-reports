@@ -13,7 +13,7 @@ information see figure 1.1
 
 I generated an ssh key so this will not prompt me for my password :smile:.  [^1]
 
-## Clone your fork of te repository from your Github account ( Step 5 )
+## Clone your fork of the repository from your Github account ( Step 5 )
 ```$ git clone https://github.com/ulises0516/lab7.git```
 
 This would clone us into our git repository we forked previously.
