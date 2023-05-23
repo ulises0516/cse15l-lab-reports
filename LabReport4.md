@@ -39,7 +39,8 @@ This would run the script to test the code you can also,however compile
 
 this will allow you to enter vim to edit the code see figure 1.4 to see how it looks like and on the right path.
 
-![figure 1.4](<img width="667" alt="Screenshot 2023-05-22 at 4 11 00 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/f4d4c80f-d18c-4943-911b-82fcb72d1df5">)
+![figure 1.4](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/45e031fa-e198-4e66-ad05-2a617725238a)
+
 
 1. ```/``` 
 2. type **index1**
