@@ -30,7 +30,8 @@ This would clone us into our git repository we forked previously.
 This would run the script to test the code you can also,however compile
 ```$ javac ListExamplesTests.java``` then ```$ java ListExamplesTests``` to show the errors of the tests.
 
-![figure 1.3](<img width="527" alt="Screenshot 2023-05-22 at 4 38 13 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/8c50724e-4990-4190-8233-21cf4c7e31a0">)
+![figure 1.3](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/590a25f3-45e1-426b-ba14-e6fb69518401)
+
 
 ## Edit the code file to fix the failing tests ( step 7 )
 
