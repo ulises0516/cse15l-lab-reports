@@ -58,6 +58,7 @@ this will allow you to enter vim to edit the code see figure 1.4 to see how it l
 These sequence of steps will fix the error in the code.
 
 **SIDE NOTE - Extra information on what the steps do** 
+
 The frst step is a the default character that will alow you search for a word. The 4th step is basically says "search for the next occurence of the word". The 5th step is common to escape current mode. the 8th mode is a common mode called index mode which allows you to type follows your cursor. Then 10th step is to escape the current mode which is index mode. The 11 step essentially says "save then quit".
 
 ## Run the Tests, demonstrating they now succeed (step 8)
