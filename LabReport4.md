@@ -17,7 +17,9 @@ I generated an ssh key so this will not prompt me for my password
 
 This would clone us into our git repository we forked previously.
 
-![figure2.2](<img width="505" alt="Screenshot 2023-05-22 at 4 37 20 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/8a12ecaa-e45c-4374-a1b9-d1ac9660c06b">)
+![figure 1.2](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/cf59dd92-40f7-4466-874f-f1d133120c3c)
+
+
 
 ```cd lab7``` before continuing onto next step. This image shows the information provided after cloning. 
 
