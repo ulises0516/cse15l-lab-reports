@@ -68,7 +68,7 @@ The frst step is a the default character that will alow you search for a word. T
 
 This should now display that the tests succeed see figure 1.5 for what the mesage should show 
 
-![figure 1.3](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/1195582d-4737-4ca4-97fa-5966cfe7c254)
+![figure 1.5](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/1195582d-4737-4ca4-97fa-5966cfe7c254)
 
 
 ## Commit and push resulting to change to your github account ( step 9)
@@ -81,7 +81,8 @@ Complete generating ssh keys for github for a smooth process
 
 Enter these commands in the sequence. However for ```$ git push``` put your ssh key from github under the code section then the section ssh. This will display your own if you completed ssh keys for github correctly. See figure 1.6 for a what a successful commit and push looks like.
 
-![figure 1.6](<img width="665" alt="Screenshot 2023-05-22 at 4 42 17 PM" src="https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/1646958e-af88-43ac-8b69-283e7d120b31">)
+![figure 1.6](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/7249e5dd-6aa6-44de-b425-8fb11ab42b62)
+
 
 **Side Note**
 
