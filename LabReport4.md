@@ -8,7 +8,7 @@ This would sign me into my account with the provided
 information see figure 1.1 
 
 
-![figure 1.1](![Screenshot 2023-05-22 at 3 44 15 PM](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/cb30db03-c7aa-479d-bef3-90b63f68f4a4))
+![figure 1.1](![Screenshot 2023-05-22 at 3 44 15 PM](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/cb30db03-c7aa-479d-bef3-90b63f68f4a4)
 
 I generated an ssh key so this will not prompt me for my password 
 
