@@ -43,14 +43,14 @@ this will allow you to enter vim to edit the code see figure 1.4 to see how it l
 )
 
 1. ```/``` 
-2. type index 1
+2. type **index1**
 3. ```<return>```
 4. type "n" 10 times 
 5.  ```<escape>```
 6.  ```< right arrow key> <right arrow key> <right arroy key>  <right arrow key> <right arrow key>```
-7.  press x
-8.  press i to go into index mode
-9.  press 2
+7.  press **x**
+8.  press **i** to go into index mode
+9.  press **2**
 10.  ```escape```
 11.  ```:```wq
 12.  ```<enter>```
