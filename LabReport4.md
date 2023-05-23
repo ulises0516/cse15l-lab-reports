@@ -68,7 +68,8 @@ The frst step is a the default character that will alow you search for a word. T
 
 This should now display that the tests succeed see figure 1.5 for what the mesage should show 
 
-![figure 1.5](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/45e031fa-e198-4e66-ad05-2a617725238a)
+![figure 1.3](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/1195582d-4737-4ca4-97fa-5966cfe7c254)
+
 
 ## Commit and push resulting to change to your github account ( step 9)
 
