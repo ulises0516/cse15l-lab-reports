@@ -209,7 +209,7 @@
   extra information if there is a issue.
   
   
- # Chat GPT source ( prompts used and output) 
+# Chat GPT source ( prompts used and output) 
  
  The prompt I gave chat GPT : How is grep -c , -i, -w and -r useful in the command line and give a  few examples.
  
