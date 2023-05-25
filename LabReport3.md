@@ -213,7 +213,7 @@
  
  The prompt I gave chat GPT : How is grep -c , -i, -w and -r useful in the command line and give a  few examples.
  
- **SIDE NOTE**: I didnt change the prompt afterwards. Chat GPT gave me the needed context of what the command did and useful tips about the command in general. I was satisfied with the answer Chat GPT gave me its a wonderful tool.
+ **SIDE NOTE**: I didnt change the prompt afterwards. Chat GPT gave me the needed context of what the command did, useful tips about the command in general, and how to use the command option in the command line. I was satisfied with the answer Chat GPT gave me its a wonderful tool.
  
  ![Screenshot 2023-05-24 at 7 54 30 PM](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/80b8b04c-9eaa-4fd3-9313-40a09c141baf)
  
