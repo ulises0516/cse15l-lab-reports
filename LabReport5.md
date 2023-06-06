@@ -68,7 +68,7 @@ Hi, thanks for being specific in your response. Your problem is in your bash scr
 
 ## Students Response
 
-Hey Thanks! The example you gave was in fact the same thing happening to me. I previously slashed out an import statement and forgot about it when i made the bash script. The bug was produced by the command ```grep -q``` on the line ```//import java.util.ArrayList;``` although it was slashed out so technically Im not using the import statment and should not say dont use import. My bash script would still read it because it still partially matches the input(import java.util.ArrayList;) I gave it. Using grep -x gave me the right produced output I was looking for because it matches the exact input I gave the bash script to look out for which was ```import java.util.ArrayList;```. Thanks for the help it was a difficult bug and I spend hours on it.
+Hey Thanks! The example you gave was in fact the same thing happening to me. I previously slashed out an import statement and forgot about it when i made the bash script. The bug was produced by the command ```grep -q``` on the line ```//import java.util.ArrayList;``` although it was slashed out so technically Im not using the import statment and should not say dont use import. My bash script would still read it because it still partially matches the input(import java.util.ArrayList;) I gave it. Using grep -x gave me the right produced output I was looking for because it matches the exact input I gave the bash script to look out for which was ```import java.util.ArrayList;```. Thanks for the help it was a difficult bug and I spent hours on it.
 
 
 This shows my code working and the slashed out import statement I was using.
