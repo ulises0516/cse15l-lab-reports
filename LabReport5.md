@@ -11,7 +11,8 @@ Post
 
 Title: Confused on why my code is wrong
 
-Categroy ```ruby
+Categroy
+```ruby
 Debugging
 ```
 
