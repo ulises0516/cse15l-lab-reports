@@ -9,21 +9,22 @@ Question
 Post
 ```
 
-Title: Confused on why my code is wrong
+**Title:** Why is My script producing a different output 
 
 Category
 ```ruby
 Debugging
 ```
 
-What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?
+**What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?**
+
 I am on mac using visual studio code.
 
-Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avoid saying “it doesn't work”.
+**Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avoid saying “it doesn't work”.**
 
 The symptom Im seeing is that it is saying that Im using an import statement when im not. It producing and printing the message that im using an import statement. I provided screenshots below.
                          
-Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.
+**Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.**
 
 I didnt run any special commands. I ran the bash script that included the javac and java steps to compile and run my code. So it would warn me if I accidentally used an import that I wasnt suppose to use
 
