@@ -76,6 +76,11 @@ This shows my code working and the slashed out import statement I was using.
 
 
 
+## Reflection
+
+
+The lab where we learned how to commit, add, and push a change to our git repository. The whole process was interesting to me and something I know will be using a lot. I really enjoy  also how in that lab as well we made a ssh key so now we only have to login once which is really nice. This class taught me a lot that I didnt know and made me improve alot thanks!
+
 
 
 
