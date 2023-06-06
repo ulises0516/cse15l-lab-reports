@@ -11,7 +11,9 @@ Post
 
 Title: Confused on why my code is wrong
 
-Categroy ```Debugging```
+Categroy ```ruby
+Debugging
+```
 
 What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?
 I am on mac using visual studio code.
