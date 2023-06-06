@@ -1,13 +1,17 @@
 # Lab Report 5
 
 ## Student question
-``` ==Question== ```       
+``` ruby
+Question
+```       
 
-``` Post```
+```ruby
+Post
+```
 
 Title: Confused on why my code is wrong
 
-Categroy ```==Debugging==```
+Categroy ```Debugging```
 
 What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?
 I am on mac using visual studio code.
