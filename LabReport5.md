@@ -36,6 +36,11 @@ The symptom Im seeing is that it is saying that Im using an import statement whe
 I didnt run any special commands. I ran the bash script that included the javac and java steps to compile and run my code. So it would warn me if I accidentally used an import that I wasnt suppose to use
 
 
+SideNote: 
+
+I provided some extra information on what each screen shot shows.
+
+
 This shows the file my bash Script is running on and running the test.
 
 ![Screenshot 2023-06-05 at 7 58 01 PM](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/fd5dec35-6c4b-4476-ae72-e6b7797560c9)
