@@ -37,12 +37,16 @@ I didnt run any special commands. I ran the bash script that included the javac 
 
 
 This shows the file my bash Script is running on and running the test.
+
 ![Screenshot 2023-06-05 at 7 58 01 PM](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/fd5dec35-6c4b-4476-ae72-e6b7797560c9)
 
-This shows the code of my bash script and what it does 
+This shows the code of my bash script and what it does
+
 ![Screenshot 2023-06-05 at 7 58 08 PM](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/b590dfaa-9a46-4d4a-9ae3-2b70b171f5ce)
 
+
 This shows my working directory and files 
+
 ![Screenshot 2023-06-05 at 8 15 37 PM](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/3b62bdbc-8c8f-424a-ac00-2b3d3ffc9651)
 
 
