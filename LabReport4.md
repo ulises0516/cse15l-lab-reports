@@ -3,6 +3,14 @@
 ## Logging into ieng6 ( Step 4 ) 
 
 ```$ ssh cs15lsp23mx@ieng6.ucsd.edu```
+For this step I typed:
+
+ssh  cs15lsp23mx```<@>```ieng6```<.>```ucsd```<.>```edu
+
+```<enter>```
+
+Note: I already open my terminal and open my editor before I completed type all of that 
+
 
 This would sign me into my account with the provided 
 information see figure 1.1 
@@ -14,6 +22,12 @@ I generated an ssh key so this will not prompt me for my password
 
 ## Clone your fork of the repository from your Github account ( Step 5 )
 ```$ git clone https://github.com/ulises0516/lab7.git```
+
+I typed exactly:
+
+git clone https```<:></></>```github.com```</>```ulises0516```</>```lab7```<.>```git
+
+```<enter>```
 
 This would clone us into our git repository we forked previously.
 
@@ -82,7 +96,9 @@ figure 1.5
 Complete generating ssh keys for github for a smooth process 
 
 ```$ git add ListExamples.java```
+
 ```$ git commit -m "<enter message of your choosing>"```
+
 ```$ git push git@github.com:ulises0516/lab7.git```
 
 Enter these commands in the sequence. However for ```$ git push``` put your ssh key from github under the code section then the section ssh. This will display your own if you completed ssh keys for github correctly. See figure 1.6 for a what a successful commit and push looks like.
