@@ -5,7 +5,7 @@
 ```$ ssh cs15lsp23mx@ieng6.ucsd.edu```
 For this step I typed:
 
-ssh  cs15lsp23mx```<@>```ieng6```<.>```ucsd```<.>```edu
+ssh```<space>```cs15lsp23mx```<@>```ieng6```<.>```ucsd```<.>```edu
 
 ```<enter>```
 
@@ -25,7 +25,7 @@ I generated an ssh key so this will not prompt me for my password
 
 I typed exactly:
 
-git clone https```<:></></>```github.com```</>```ulises0516```</>```lab7```<.>```git
+git```<space>```clone```<space>``` https```<:></></>```github.com```</>```ulises0516```</>```lab7```<.>```git
 
 ```<enter>```
 
@@ -36,14 +36,26 @@ figure 1.2
 
 
 
-```cd lab7``` before continuing onto next step. This image shows the information provided after cloning. 
+I typed exactly```cd lab7``` then pressed ```<enter>``` before continuing onto next step. This image shows the information provided after cloning. 
 
 ## Run the tests, demonstrating that they fail ( step 6 )
 
 ```$ bash test.sh```
 
+I typed this exactly:
+
+bash```<space>```test```<.>```sh
+```<enter>```
+
 This would run the script to test the code you can also,however compile
 ```$ javac ListExamplesTests.java``` then ```$ java ListExamplesTests``` to show the errors of the tests.
+
+To type this exatcly:
+
+javac```<space>```ListExamplesTest```<.>```.java 
+```<enter>```
+java```<space>```ListExamplesTests
+```<enter>```
 
 
 figure 1.3
@@ -56,6 +68,11 @@ figure 1.3
 ```vim ListExamples.java```
 
 this will allow you to enter vim to edit the code see figure 1.4 to see how it looks like and on the right path.
+
+To type this exactly:
+
+vim```<space>```ListExamples```<.>```
+```<enter>```
 
 figure 1.4
 ![figure 1.4](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/45e031fa-e198-4e66-ad05-2a617725238a)
@@ -85,6 +102,10 @@ The frst step is a the default character that will alow you search for a word. T
 ```$ bash test.sh```
 
 This should now display that the tests succeed see figure 1.5 for what the mesage should show 
+
+To type this exactly on your keyboard:
+
+bash```<space>```test```<.>```sh
 
 
 figure 1.5
