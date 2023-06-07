@@ -123,13 +123,42 @@ figure 1.5
 
 Complete generating ssh keys for github for a smooth process 
 
+1. 
 ```$ git add ListExamples.java```
 
-```$ git commit -m "<enter message of your choosing>"```
+To type this exactly on your keyboard:
+
+git```<space>```add```<space>```ListExamples```<.>```
+
+```<enter>```
+
+2.
+
+```$ git commit -m "updated"```
+
+```<enter>```
+
+To type this exactly on your keyboard:
+
+git```<space>```commit```<space><.>```m```<space>``` ```"```updated```"```
+
+
+3. 
 
 ```$ git push git@github.com:ulises0516/lab7.git```
 
-Enter these commands in the sequence. However for ```$ git push``` put your ssh key from github under the code section then the section ssh. This will display your own if you completed ssh keys for github correctly. See figure 1.6 for a what a successful commit and push looks like.
+```<enter>```
+
+To type this exactly on your keyboard:
+
+git```<space>```push```<space>``` git@github```<.>```com```<:>```ulises0516```</>```lab7```<.>```git
+
+```<enter>```
+
+
+Side note: 
+
+Enter these commands in the sequence. However for ```$ git push``` put your ssh key from github under the code section then the section ssh. This will display your own if you completed ssh keys for github correctly. See figure 1.6 for a what a successful commit and push looks like. Also this is from my own local computer so make sure you adjust to yours.
 
 
 figure 1.6
