@@ -55,7 +55,7 @@ This would run the script to test the code you can also,however compile
 
 To type this exatcly:
 
-javac```<space>```ListExamplesTest```<.>```.java 
+javac```<space>```ListExamplesTest```<.>```java 
 
 ```<enter>```
 
