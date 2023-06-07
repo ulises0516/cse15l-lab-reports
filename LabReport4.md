@@ -162,7 +162,7 @@ git```<space>```commit```<space><.>```m```<space>``` ```"```updated```"```
 
 To type this exactly on your keyboard:
 
-git```<space>```push```<space>``` git@github```<.>```com```<:>```ulises0516```</>```lab7```<.>```git
+git```<space>```push```<space>``` git```@```github```<.>```com```<:>```ulises0516```</>```lab7```<.>```git
 
 ```<enter>```
 
