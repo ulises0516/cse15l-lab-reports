@@ -29,6 +29,7 @@ git```<space>```clone```<space>``` https```<:></></>```github.com```</>```ulises
 
 ```<enter>```
 
+
 This would clone us into our git repository we forked previously.
 
 figure 1.2
@@ -58,7 +59,9 @@ javac```<space>```ListExamplesTest```<.>```.java
 ```<enter>```
 
 java```<space>```ListExamplesTests
+
 ```<enter>```
+
 
 
 figure 1.3
