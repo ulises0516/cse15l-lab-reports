@@ -78,6 +78,7 @@ this will allow you to enter vim to edit the code see figure 1.4 to see how it l
 To type this exactly:
 
 vim```<space>```ListExamples```<.>```
+
 ```<enter>```
 
 figure 1.4
