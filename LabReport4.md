@@ -45,6 +45,7 @@ I typed exactly```cd lab7``` then pressed ```<enter>``` before continuing onto n
 I typed this exactly:
 
 bash```<space>```test```<.>```sh
+
 ```<enter>```
 
 This would run the script to test the code you can also,however compile
@@ -53,7 +54,9 @@ This would run the script to test the code you can also,however compile
 To type this exatcly:
 
 javac```<space>```ListExamplesTest```<.>```.java 
+
 ```<enter>```
+
 java```<space>```ListExamplesTests
 ```<enter>```
 
