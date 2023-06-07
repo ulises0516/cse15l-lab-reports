@@ -126,14 +126,20 @@ figure 1.5
 
 Complete generating ssh keys for github for a smooth process 
 
-1. 
+
+1.
+
 ```$ git add ListExamples.java```
+
+```<enter>```
 
 To type this exactly on your keyboard:
 
 git```<space>```add```<space>```ListExamples```<.>```
 
 ```<enter>```
+
+---
 
 2.
 
@@ -144,6 +150,8 @@ git```<space>```add```<space>```ListExamples```<.>```
 To type this exactly on your keyboard:
 
 git```<space>```commit```<space><.>```m```<space>``` ```"```updated```"```
+
+---
 
 
 3. 
