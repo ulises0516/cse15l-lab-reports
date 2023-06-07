@@ -115,6 +115,8 @@ To type this exactly on your keyboard:
 
 bash```<space>```test```<.>```sh
 
+```<enter>```
+
 
 figure 1.5
 ![figure 1.5](https://github.com/ulises0516/cse15l-lab-reports/assets/125671517/1195582d-4737-4ca4-97fa-5966cfe7c254)
