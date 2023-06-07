@@ -3,7 +3,8 @@
 ## Logging into ieng6 ( Step 4 ) 
 
 ```$ ssh cs15lsp23mx@ieng6.ucsd.edu```
-For this step I typed:
+
+For this step I typed exactly:
 
 ssh```<space>```cs15lsp23mx```<@>```ieng6```<.>```ucsd```<.>```edu
 
