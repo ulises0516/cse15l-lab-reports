@@ -154,7 +154,7 @@ git```<space>```commit```<space><.>```m```<space>``` ```"```updated```"```
 ---
 
 
-3. 
+3.
 
 ```$ git push git@github.com:ulises0516/lab7.git```
 
